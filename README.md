@@ -36,3 +36,4 @@
 - ⚡ Fun fact: I play videogames A LOT! 🎮
 <br>
   
+![](https://komarev.com/ghpvc/?username=Rodzalmeida&color=blue&style=flat)
