@@ -36,6 +36,3 @@
 - ⚡ Fun fact: I play videogames A LOT! 🎮
 <br>
   
-## Now Playing
-
-[![Spotify](https://novatorem-envoy-vc.vercel.app/api/spotify)](https://open.spotify.com/user/12155859350?si=c5f31477c8a94b4c)
