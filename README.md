@@ -1,24 +1,28 @@
-
-### Hi there, welcome! 
-### I'm Rodrigo (Rodz) <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="40">
-
-<br>
+<img src="./images/background3.jpg">
 
 <div align="center">
   <a href="https://github.com/Rodzalmeida">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Rodzalmeida&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodzalmeida&layout=compact&langs_count=7&theme=omni"/>
 </div>
-  <br>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
-  <img align="center" alt="Rafa-Js" height="35" width="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/ArcGIS_logo.png/480px-ArcGIS_logo.png">
-  <img align="center" alt="Rafa-Js" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/QGIS_logo_new.svg/1200px-QGIS_logo_new.svg.png">
-</div>
 
-<br>
+### Hi there, welcome! 
+### I'm Rodrigo (Rodz) <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="40">
+
+<br>  
+  
+- 🌱 I'm Rodrigo, but you can call me Rodz. I am a geographer, currently living in Rio de Janeiro (Brazil), love to travel and talk politics. 
+- 👨‍🎓 Studying Data Science! 💻
+- ⚡ Fun fact: I play videogames A LOT! 🎮
+
+<div style="display: inline_block"><br>
+<img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg">
+<img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
+<img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
+<img align="center" alt="Rafa-Js" height="35" width="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/ArcGIS_logo.png/480px-ArcGIS_logo.png">
+<img align="center" alt="Rafa-Js" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/QGIS_logo_new.svg/1200px-QGIS_logo_new.svg.png">
+</div>
+<br>  
 <div> 
   
 ### Send me a message! 📧
@@ -30,11 +34,6 @@
 
   
   </div>
-<br>
-
-- 🌱 I'm Rodrigo, but you can call me Rodz. I am a geographer, currently living in Rio de Janeiro (Brazil), love to travel and talk politics. 
-- 👨‍🎓 Studying Data Science! 💻
-- ⚡ Fun fact: I play videogames A LOT! 🎮
 <br>
   
 ![](https://komarev.com/ghpvc/?username=Rodzalmeida&color=blue&style=flat)
