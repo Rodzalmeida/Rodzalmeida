@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/Rodzalmeida">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Rodzalmeida&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodzalmeida&layout=compact&langs_count=7&theme=omni"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Rodzalmeida&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodzalmeida&layout=compact&langs_count=7&theme=omni"/>
 </div>
 
 ### Hi there, welcome! 
@@ -14,7 +14,8 @@
 - 🌱 I'm Rodrigo, but you can call me Rodz. I am a geographer, currently living in Rio de Janeiro (Brazil), love to travel and talk politics. 
 - 👨‍🎓 Studying Data Science! 💻
 - ⚡ Fun fact: I play videogames A LOT! 🎮
-
+  
+### Skills and apps
 <div style="display: inline_block"><br>
 <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg">
 <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
