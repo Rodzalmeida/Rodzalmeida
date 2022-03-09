@@ -11,7 +11,7 @@
 
 <br>  
   
-- 🌱 I'm Rodrigo, but you can call me Rodz. I am a geographer, currently living in Rio de Janeiro (Brazil), love to travel and talk politics. 
+- 🌱 I'm Rodrigo, but you can call me Rodz. I am a geographer, currently living in Rio de Janeiro (Brazil), love to travel, talk videogames and FOOD!!! 
 - 👨‍🎓 Studying Data Science! 💻
 - ⚡ Fun fact: I play videogames A LOT! 🎮
   
